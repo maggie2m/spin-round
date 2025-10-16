@@ -1,7 +1,7 @@
-const CACHE_NAME = 'bricks-breaker-v1';
+const CACHE_NAME = 'spinyaaa';
 const urlsToCache = [
   './',
-  './index.html'
+  './spin.html'
 ];
 
 self.addEventListener('install', event => {
