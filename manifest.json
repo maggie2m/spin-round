@@ -1,0 +1,26 @@
+{
+  "name": "spin round",
+  "short_name": "spin",
+  "description": "just shooting yaaaaaaaa",
+  "start_url": "./spin.html",
+  "id": "/spin-round/",
+  "display": "fullscreen",
+  "orientation": "portrait",
+  "background_color": "#0f172a",
+  "theme_color": "#3b82f6",
+  "categories": ["games", "entertainment"],
+  "icons": [
+    {
+      "src": "spinr.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "spin.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
